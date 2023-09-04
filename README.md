@@ -32,6 +32,7 @@ Extra Features: <br>
 Notes tab <br>
 Location sticky notes <br>
 Private / public annotations <br>
+A slight bit of adverts throughout the app <br>
 
 - - -
 
