@@ -1,40 +1,40 @@
 # Bushcraft-Info
-This app is to provide information on all things bushcraft | // read in code format | 
-Uses Javascript and React Native | 
-This app is purely for relaying information | 
-It is not a social-media | 
-// README updated regularly | 
+This app is to provide information on all things bushcraft <br>
+Uses Javascript and React Native <br>
+This app is purely for relaying information <br>
+It is not a social-media <br>
+// README updated regularly <br>
 
-Main Features ( Necessary ): 
-A wiki of information, with a folder or branch like system | 
-A map with user added bushcraft type spots | 
-the ability for users to add and report information on the wiki and map | 
-The ability to use the app online and offline | 
-Search Tab | 
-Reported Information is taken down temporarily | 
-Credits Tab & Github link | 
+Main Features ( Necessary ): <br>
+A wiki of information, with a folder or branch like system <br>
+A map with user added bushcraft type spots <br>
+the ability for users to add and report information on the wiki and map <br>
+The ability to use the app online and offline <br>
+Search Tab <br>
+Reported Information is taken down temporarily <br>
+Credits Tab & Github link <br>
 
-Semi-Necessary Features: | 
-Access to location | 
-Drafting system ( to save the article your writing without posting it ) | 
-Filtering system ( Filter for different themes of article, or different types of locations ) | 
-Addon system ( allow users to reply to articles to add more information ) non-informative replies will be taken down | 
-Saving system ( Users can bookmark articles and locations ) | 
-Location based Flaura and Fauna folder | 
-Printing system ( Users can print articles ) | 
-Version Access ( Users can view any version of an article they wish ) | 
-Editing system ( Users have the ability to edit articles ) I'll have to think more about this idea... | 
-Feedback tab ( users can give feedback on articles and locations ) | 
-Suggestion Tab ( A suggestion box where users can give the developeres suggestions ) | 
-Credit hover ( users can tap a contributors name to see there contributions ) | 
+Semi-Necessary Features: <br>
+Access to location <br>
+Drafting system ( to save the article your writing without posting it ) <br>
+Filtering system ( Filter for different themes of article, or different types of locations ) <br>
+Addon system ( allow users to reply to articles to add more information ) non-informative replies will be taken down <br>
+Saving system ( Users can bookmark articles and locations ) <br>
+Location based Flaura and Fauna folder <br>
+Printing system ( Users can print articles ) <br>
+Version Access ( Users can view any version of an article they wish ) <br>
+Editing system ( Users have the ability to edit articles ) I'll have to think more about this idea... <br>
+Feedback tab ( users can give feedback on articles and locations ) <br>
+Suggestion Tab ( A suggestion box where users can give the developeres suggestions ) <br>
+Credit hover ( users can tap a contributors name to see there contributions ) <br>
 
-Extra Features: | 
-Notes tab | 
-Location sticky notes | 
-Private / public annotations | 
+Extra Features: <br>
+Notes tab <br>
+Location sticky notes <br>
+Private / public annotations <br>
 
 - - -
 
-These features will be gone in more depth in future text files | 
+These features will be gone in more depth in future text files <br>
 
-This code is open source, feel free to contribute or take it as your own | 
+This code is open source, feel free to contribute or take it as your own
