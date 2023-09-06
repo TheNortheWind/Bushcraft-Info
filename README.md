@@ -37,4 +37,10 @@ Private / public annotations <br>
 
 These features will be gone in more depth in future text files <br>
 
-This code is open source, feel free to contribute or take it as your own
+This code is open source, feel free to contribute or take it as your own<br>
+
+- - -
+
+Estimated startup date: 4 months<br>
+mk1 finish date: 1 year<br>
+I have not forgotten about this project, I'm just gaining the skills to start it<br>
